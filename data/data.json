@@ -62,6 +62,33 @@
 					"Fill each tortilla with a spoonful of carnitas, and top with chopped cilantro and onion.",
 					"Serve with lime wedges."
 				],
+				"rating": 3.8
+			},
+			{
+				"recipe_name": "Carnitas Tacos",
+				"recipe_picture": "https://whatsgabycooking.com/wp-content/uploads/2019/03/All-Clad-__-Carnitas-Tacos-580x870-1.jpg",
+				"ingredients": [
+					"1 tsp cumin",
+					"1 tsp chili powder",
+					"1 tsp oregano",
+					"1 tsp garlic powder",
+					"1 tsp onion powder",
+					"1/2 tsp salt",
+					"1/4 tsp black pepper",
+					"Corn tortillas",
+					"Cilantro",
+					"Onion",
+					"Lime wedges"
+				],
+				"cooking_method": [
+					"In a large Dutch oven or heavy-bottomed pot, combine the pork, orange juice, water, cumin, chili powder, oregano, garlic powder, onion powder, salt, and black pepper.",
+					"Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 2-3 hours, stirring occasionally.",
+					"When the pork is tender and falling apart, use a slotted spoon to transfer it to a baking sheet.",
+					"Preheat the broiler to high.",
+					"Arrange the shredded pork in a single layer on the baking sheet.",
+					"Fill each tortilla with a spoonful of carnitas, and top with chopped cilantro and onion.",
+					"Serve with lime wedges."
+				],
 				"rating": 4.8
 			},
 			{
@@ -132,6 +159,33 @@
 					"Serve the chiles en nogada with the walnut sauce and crumbled queso fresco."
 				],
 				"rating": 3.5
+			},
+			{
+				"recipe_name": "Carnitas Tacos",
+				"recipe_picture": "https://whatsgabycooking.com/wp-content/uploads/2019/03/All-Clad-__-Carnitas-Tacos-580x870-1.jpg",
+				"ingredients": [
+					"1 tsp cumin",
+					"1 tsp chili powder",
+					"1 tsp oregano",
+					"1 tsp garlic powder",
+					"1 tsp onion powder",
+					"1/2 tsp salt",
+					"1/4 tsp black pepper",
+					"Corn tortillas",
+					"Cilantro",
+					"Onion",
+					"Lime wedges"
+				],
+				"cooking_method": [
+					"In a large Dutch oven or heavy-bottomed pot, combine the pork, orange juice, water, cumin, chili powder, oregano, garlic powder, onion powder, salt, and black pepper.",
+					"Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 2-3 hours, stirring occasionally.",
+					"When the pork is tender and falling apart, use a slotted spoon to transfer it to a baking sheet.",
+					"Preheat the broiler to high.",
+					"Arrange the shredded pork in a single layer on the baking sheet.",
+					"Fill each tortilla with a spoonful of carnitas, and top with chopped cilantro and onion.",
+					"Serve with lime wedges."
+				],
+				"rating": 3.8
 			},
 			{
 				"recipe_name": "Tamales",
@@ -228,6 +282,35 @@
 					"Serve the chiles en nogada with the walnut sauce and crumbled queso fresco."
 				],
 				"rating": 5
+			},
+			{
+				"recipe_name": "Guacamole",
+				"recipe_picture": "https://mexicanfoodjournal.com/wp-content/uploads/2016/09/Chile-en-Nogada.jpg",
+				"ingredients": [
+					"6 poblano chiles",
+					"1/2 cup diced onion",
+					"1/2 cup diced tomato",
+					"1/4 cup raisins",
+					"1/4 cup chopped almonds",
+					"Salt and pepper to taste",
+					"1/2 cup flour",
+					"3 eggs",
+					"1 cup breadcrumbs",
+					"2 cups vegetable oil"
+				],
+				"cooking_method": [
+					"Roast the poblano chiles over an open flame until blackened on all sides.",
+					"Transfer the chiles to a plastic bag and let them steam for 15 minutes.",
+					"Remove the skins, stems, and seeds from the chiles.",
+					"Cook for 10 minutes, stirring occasionally.",
+					"Fill each poblano chile with the pork mixture.",
+					"Roll each stuffed chile in flour, dip it in beaten eggs, and coat it with breadcrumbs.",
+					"Heat the vegetable oil in a large skillet over medium heat.",
+					"Fry the chiles until golden brown on all sides.",
+					"For the sauce, blend the sour cream, walnuts, milk, sugar, and vinegar in a blender until smooth.",
+					"Serve the chiles en nogada with the walnut sauce and crumbled queso fresco."
+				],
+				"rating": 3.5
 			},
 			{
 				"recipe_name": "Enchiladas",
@@ -422,6 +505,33 @@
 				"rating": 4.5
 			},
 			{
+				"recipe_name": "Carnitas Tacos",
+				"recipe_picture": "https://whatsgabycooking.com/wp-content/uploads/2019/03/All-Clad-__-Carnitas-Tacos-580x870-1.jpg",
+				"ingredients": [
+					"1 tsp cumin",
+					"1 tsp chili powder",
+					"1 tsp oregano",
+					"1 tsp garlic powder",
+					"1 tsp onion powder",
+					"1/2 tsp salt",
+					"1/4 tsp black pepper",
+					"Corn tortillas",
+					"Cilantro",
+					"Onion",
+					"Lime wedges"
+				],
+				"cooking_method": [
+					"In a large Dutch oven or heavy-bottomed pot, combine the pork, orange juice, water, cumin, chili powder, oregano, garlic powder, onion powder, salt, and black pepper.",
+					"Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 2-3 hours, stirring occasionally.",
+					"When the pork is tender and falling apart, use a slotted spoon to transfer it to a baking sheet.",
+					"Preheat the broiler to high.",
+					"Arrange the shredded pork in a single layer on the baking sheet.",
+					"Fill each tortilla with a spoonful of carnitas, and top with chopped cilantro and onion.",
+					"Serve with lime wedges."
+				],
+				"rating": 3.8
+			},
+			{
 				"recipe_name": "Burritos",
 				"recipe_picture": "https://whatsgabycooking.com/wp-content/uploads/2019/03/All-Clad-__-Carnitas-Tacos-580x870-1.jpg",
 				"ingredients": [
@@ -516,6 +626,33 @@
 					"Serve the chiles en nogada with the walnut sauce and crumbled queso fresco."
 				],
 				"rating": 3.5
+			},
+			{
+				"recipe_name": "Carnitas Tacos",
+				"recipe_picture": "https://whatsgabycooking.com/wp-content/uploads/2019/03/All-Clad-__-Carnitas-Tacos-580x870-1.jpg",
+				"ingredients": [
+					"1 tsp cumin",
+					"1 tsp chili powder",
+					"1 tsp oregano",
+					"1 tsp garlic powder",
+					"1 tsp onion powder",
+					"1/2 tsp salt",
+					"1/4 tsp black pepper",
+					"Corn tortillas",
+					"Cilantro",
+					"Onion",
+					"Lime wedges"
+				],
+				"cooking_method": [
+					"In a large Dutch oven or heavy-bottomed pot, combine the pork, orange juice, water, cumin, chili powder, oregano, garlic powder, onion powder, salt, and black pepper.",
+					"Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 2-3 hours, stirring occasionally.",
+					"When the pork is tender and falling apart, use a slotted spoon to transfer it to a baking sheet.",
+					"Preheat the broiler to high.",
+					"Arrange the shredded pork in a single layer on the baking sheet.",
+					"Fill each tortilla with a spoonful of carnitas, and top with chopped cilantro and onion.",
+					"Serve with lime wedges."
+				],
+				"rating": 3.8
 			},
 			{
 				"recipe_name": "Flautas",

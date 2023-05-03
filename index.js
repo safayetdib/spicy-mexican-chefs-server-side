@@ -8,7 +8,9 @@ const port = process.env.PORT || 3000;
 app.use(cors());
 
 app.get('/', (req, res) => {
-	res.send('Hello World!');
+	res.send(
+		'Go to https://assignment-10-server-side-safayetalam.vercel.app/data for Chefs data.'
+	);
 });
 
 app.get('/data', (req, res) => {

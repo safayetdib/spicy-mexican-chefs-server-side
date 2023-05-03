@@ -463,6 +463,35 @@
 					"Serve with salsa."
 				],
 				"rating": 5
+			},
+			{
+				"recipe_name": "Carne asada",
+				"recipe_picture": "https://www.goya.com/media/4255/stuffed-chileschiles-rellenos.jpg?quality=80",
+				"ingredients": [
+					"4 poblano peppers",
+					"1 lb ground beef",
+					"1/2 onion, chopped",
+					"2 garlic cloves, minced",
+					"1 tsp cumin",
+					"1 tsp chili powder",
+					"1 tsp dried oregano",
+					"2 eggs",
+					"1/4 cup all-purpose flour",
+					"Vegetable oil",
+					"Salsa, for serving"
+				],
+				"cooking_method": [
+					"Preheat the oven to 350°F.",
+					"Roast the poblano peppers on a baking sheet for 20-25 minutes, or until the skins are blistered and charred.",
+					"Remove the peppers from the oven and transfer them to a large bowl.",
+					"Cover the bowl with plastic wrap and let the peppers steam for 10-15 minutes, or until the skins are loosened.",
+					"Gently fold the yolks into the whites, then fold in the flour.",
+					"Heat 1/4 inch of oil in a large skillet over medium heat.",
+					"Dip each stuffed pepper in the egg mixture, then carefully place it in the hot oil.",
+					"Fry the peppers for 2-3 minutes per side, or until golden brown.",
+					"Serve with salsa."
+				],
+				"rating": 4.5
 			}
 		]
 	},
